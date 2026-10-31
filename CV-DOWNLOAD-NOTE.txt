@@ -1,0 +1,1 @@
+Download CV is implemented in script.js under "Reliable offline CV download". The PDF is embedded as base64 so the button can create a downloadable PDF Blob directly from a click, including when index.html is opened locally using file://. The separate View CV Online links still point to cv/Alteah_Anne_Q_Burgos_CV.pdf.

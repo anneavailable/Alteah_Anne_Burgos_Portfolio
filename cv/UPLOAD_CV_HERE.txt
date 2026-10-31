@@ -1,0 +1,13 @@
+UPLOAD YOUR CV PDF HERE
+-----------------------
+Save your latest CV PDF into this folder using this exact filename:
+Alteah_Anne_Q_Burgos_CV.pdf
+
+The Download CV and View CV Online buttons already point to:
+cv/Alteah_Anne_Q_Burgos_CV.pdf
+
+After adding the PDF, deploy the whole website folder again.
+Then test the public PDF URL in your browser:
+https://YOUR-DOMAIN/cv/Alteah_Anne_Q_Burgos_CV.pdf
+
+The buttons cannot open or download the PDF until the actual PDF file is added and deployed.
