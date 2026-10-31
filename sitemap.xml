@@ -1,5 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-  <!-- Replace your-domain.example with your live deployment domain after publishing. -->
-  <url><loc>https://anneavailable.github.io/Alteah_Anne_Burgos_Portfolio/</loc><changefreq>monthly</changefreq><priority>1.0</priority></url>
+<url>
+<loc>https://anneavailable.github.io/Alteah-Anne-Burgos_Portfolio/</loc>
+<changefreq>monthly</changefreq>
+<priority>1.0</priority>
+</url>
 </urlset>
